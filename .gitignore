@@ -1,0 +1,11 @@
+# Vim
+*.sw*
+
+# Python
+*.egg-info
+*.pyc
+__pycache__
+
+# Setup
+build/
+dist/
