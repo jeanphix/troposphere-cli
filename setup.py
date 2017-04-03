@@ -21,4 +21,6 @@ with open('README.rst', 'r') as f:
         entry_points=dict(
             console_scripts=['trop=trop:cli.main'],
         ),
+        tests_require=['moto'],
+        test_suite="trop.tests.suite",
     )
