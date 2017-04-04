@@ -3,6 +3,10 @@ Troposphere CLI
 
 Command line interface to manage troposphere CloudFormation stacks.
 
+.. image:: https://travis-ci.org/Omixy/troposphere-cli.svg?branch=dev
+   :target: https://travis-ci.org/Omixy/troposphere-cli
+   :alt: Build Status
+
 
 Installation
 ------------
